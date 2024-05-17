@@ -27,3 +27,5 @@ boton_enviar = tk.Button(ventana, text="Enviar", command=enviar_opinion, bg="#d7
 boton_enviar.pack(pady=10)
 
 ventana.mainloop()
+
+#correccion
